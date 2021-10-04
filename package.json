@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+    "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
